@@ -1,4 +1,4 @@
 # EssentialsNK
 Essentials plugin for Nukkit
 
-**NEED HELP TO IMPROVE**
+Slowly being improved. Please Help me :)
